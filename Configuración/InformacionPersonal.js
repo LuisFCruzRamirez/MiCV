@@ -3,9 +3,9 @@
 //*********************************************************** */
 
 const InformacionPersonal = {
-  Nombre: "Luis Fernando",
-  Apellidos: "Cruz Ramirez",
-  Cargo: "Desarrollador Full Stack Sr",
+  Nombre: "Luis",
+  Apellidos: "Cruz",
+  Cargo: "Estudiante",
   Genero: "Masculino",
   WebSite: "",
   Nacionalidad: "Mexicana",
